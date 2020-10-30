@@ -11,6 +11,8 @@ Bem vindo ao Meu Git!! Aqui você encontrará alguns projetos públicos!!
 
 👨‍💻  Trabalha com suporte em sistemas Desenvolvidos em C# e SQL Server
 
+🇺🇸🎓 Praticante de Duolingo 
+
 🎸 Aspirante no Violão
 
 💪  Marombeiro! Bora fortalecer a mente e o corpo
