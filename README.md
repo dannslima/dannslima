@@ -1,10 +1,6 @@
 ##  Olá! Eu sou o Danilo Lima ##
 
- <div>
-  <a href="https://https://github.com/dannslima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dannslima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannslima&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dann-Js" height="30" width="40" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png">
   <img align="center" alt="dann-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
