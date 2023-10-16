@@ -8,7 +8,7 @@
   <img align="center" alt="dann-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="dann-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="dann-Csharp" height="30" width="40" src="https://logowiki.net/uploads/logo/r/react-1.svg">
-  
+   <img align="center" alt="dann-Csharp" height="30" width="40" src="https://logowiki.net/uploads/logo/a/angular-icon.svg">
   
   <img align="right" alt="Danilo-yoda" src="https://media.tenor.com/images/c776f7646880b204fc587af986826db2/tenor.gif">
 </div>
